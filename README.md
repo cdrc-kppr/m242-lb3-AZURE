@@ -22,9 +22,9 @@
 
 ## K1
 ### Umgebung auf eigenem Notebook eingerichtet und voll funktionsfähig
-*Account auf os.mbed.com erstellt
-*Serial Driver installiert
-*Terminal Programm installiert
+* Account auf os.mbed.com erstellt
+* Serial Driver installiert
+* Terminal Programm installiert
 
 ## K2
 ### Eigene Lernumgebung ist eingerichtet
