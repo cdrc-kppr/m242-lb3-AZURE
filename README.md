@@ -47,12 +47,13 @@ Von VPN bis zu AAD usw.
 * Anhand der Dokumentation können Dritte das Projekt nachbauen
 #### Azure 
 * IoT Hub erstellt:
-![](IMG/Azure_Hub.png)
+![](IMG/Azure_Hub.PNG)
+
 * In IoT Hub ein Device erstellt
-![](IMG/Azure_IoTDevice.png)
+![](IMG/Azure_IoTDevice.PNG)
 
 * "Primary Connection String" kopiert und in [mbed_app.json](link) kopiert 
-![](IMG/Azure_Key.png)
+![](IMG/Azure_Key.PNG)
 
 
 ## K3
