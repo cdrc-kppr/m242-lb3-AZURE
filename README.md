@@ -30,8 +30,30 @@
 ### Eigene Lernumgebung ist eingerichtet
 * Dokumentation vorhanden
 * Persönlicher Wissenstand in Bezug auf die wichtigsten Themen ist dokumentiert (IoT, Sensoren, Aktoren, Service)
+##### Luca Kiefer
+Internet of Things netzte ich selbst erst als Benutzer wie zum Beispiele mit einer Smartphone App sehe ich mehrere Daten meines Autos. Selber konfiguriert oder sogar programmiert habe ich ein IoT Geräte noch nie.
+Mit Services habe ich bis jetzt schon mehr konfiguriert, gewartet und verwaltet. Ich habe bei meiner Arbeit täglich mit Azure und natürlich Azure Services zu tun. 
+Von VPN bis zu AAD usw.
+
 * Wichtige Lernschritte sind dokumentiert
+##### Luca Kiefer
+* 16.01.2020
+** IoT Gerät kennegelernt
+* 06.01.2021
+** Azure Cloud einferichtet
+*** - Hub und Devices
+*** - Azuer Hub mit IoT Gerät verbunden
+
 * Anhand der Dokumentation können Dritte das Projekt nachbauen
+#### Azure 
+* IoT Hub erstellt:
+
+* In IoT Hub ein Device erstellt
+
+
+* "Primary Connection String" kopiert und in [mbed_app.json](link) kopiert 
+
+
 
 ## K3
 ### IoTKit
@@ -49,8 +71,11 @@
 ## K5
 ### (Cloud) Dienst
 * (Cloud) Dienst aus den Beispielen verwendet
+[Dokumentation](https://github.com/cdrc-kppr/M242-lb3-AZURE#k6)
 * Neuen, welcher nicht in den Beispielen vorkommt, Dienst verwendet
+
 * Eigenen (Cloud) Dienst implementiert
+** [Dokumentation](https://github.com/cdrc-kppr/M242-lb3-AZURE#k6)
 * Kommunikation erfolgt verschlüsselt, z.B. mittels HTTPSoder mittels VPN
 
 ## K6
@@ -58,4 +83,7 @@
 * Allgemein (Kreativität, Komplexität, Um-fang)
 * Umsetzung eigener Ideen
 * Persönlicher Lernentwicklung (Vergleich Vorwissen –Wissenszuwachs)
+##### Luca Kiefer
+
 * Reflexion
+##### Luca Kiefer
