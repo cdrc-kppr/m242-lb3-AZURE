@@ -22,14 +22,14 @@
 
 ## K1
 ### Umgebung auf eigenem Notebook eingerichtet und voll funktionsfähig
-* Account auf os.mbed.com erstellt
-* Serial Driver installiert
-* Terminal Programm installiert
+#### Account auf os.mbed.com erstellt
+#### Serial Driver installiert
+#### Terminal Programm installiert
 
 ## K2
 ### Eigene Lernumgebung ist eingerichtet
-* Dokumentation vorhanden
-* Persönlicher Wissenstand in Bezug auf die wichtigsten Themen ist dokumentiert (IoT, Sensoren, Aktoren, Service)
+#### Dokumentation vorhanden
+#### Persönlicher Wissenstand in Bezug auf die wichtigsten Themen ist dokumentiert (IoT, Sensoren, Aktoren, Service)
 ##### Luca Kiefer
 Internet of Things nutzte ich selbst erst als Benutzer wie zum Beispiele mit einer Smartphone App sehe ich mehrere Daten meines Autos. Selber konfiguriert oder sogar programmiert habe ich ein IoT Geräte noch nie.
 Mit Services habe ich bis jetzt schon mehr konfiguriert, gewartet und verwaltet. Ich habe bei meiner Arbeit täglich mit Azure und natürlich Azure Services zu tun. 
@@ -37,7 +37,7 @@ Von VPN bis zu AAD usw.
 ##### Cedric Kupper 
 IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es ausser für ein Paar LEDs in meinem Zimmer nie tichtig benutzt. Ich habe bereits mal ein Raspberry für meine Firma eingerichtet, hatte da aber sehr viel unterstützung und musste nicht viel selber machen. Mit Services arbeite ich zwar nicht täglich aber immer mal wieder im Büro (AZURE usw.)
 
-* Wichtige Lernschritte sind dokumentiert
+#### Wichtige Lernschritte sind dokumentiert
 ##### Luca Kiefer
 * 16.12.2020
 ** IoT Gerät kennegelernt
@@ -56,8 +56,8 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 ** Cloud Programm mit MBED Studio Komopiliert und installiert
 
 
-* Anhand der Dokumentation können Dritte das Projekt nachbauen
-#### Azure 
+#### Anhand der Dokumentation können Dritte das Projekt nachbauen
+##### Azure 
 * IoT Hub erstellt:
 ![](IMG/Azure_Hub.PNG)
 
