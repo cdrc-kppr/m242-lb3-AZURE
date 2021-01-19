@@ -129,7 +129,7 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 ###### Luca Kiefer
 
 ###### Cedric Kupper
-Ich konnte sehr vieles über das IoT Kit K64F lernen. Es hat siel spass gemacht die erfolge zusehen und es war ein super Gefühl, als zum Schluss alles Funktioniert hat. Jetzt kann ich schon sehr gut damit umgehen. Ich konnte durch ausprobieren, ein wenig recherche und etwas Hilfe von meinen Teamkameraden sehr viel über MBED Studio und seine Funktionen dazulernen. Auch mit Git-Hub, bzw. Versionsverwaltungstools hab ich noch einen besseren überblick erhalten.  Mitlerweile habe ich ein gutes Wissen und kann relativ gut damit umgehen.
+Ich konnte sehr vieles über das IoT Kit K64F lernen. Es hat siel spass gemacht die Erfolge zusehen und es war ein super Gefühl, als zum Schluss alles funktioniert hat. Jetzt kann ich schon sehr gut damit umgehen. Ich konnte durch ausprobieren, ein wenig recherche und etwas Hilfe von meinen Teamkameraden sehr viel über MBED Studio und seine Funktionen dazulernen. Auch mit Git-Hub, bzw. Versionsverwaltungstools hab ich noch einen besseren überblick erhalten.  Mitlerweile habe ich ein gutes Wissen und kann relativ gut damit umgehen.
 
 Die zusammenarbeit im Team hat sehr gut funktioniert. Die aufgaben wurden gerecht aufgeteilt und dementsprechen umgesetzt.
 
