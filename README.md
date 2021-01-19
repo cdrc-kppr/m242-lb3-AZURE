@@ -1,6 +1,6 @@
 # m242-lb3-AZURE
 
-https://app.powerbi.com/reportEmbed?reportId=b4bb468a-bd5f-41e5-a80b-01c6d2d623bf&autoAuth=true&ctid=b0beee0b-d997-40e0-800b-c586956e5b18&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=b4bb468a-bd5f-41e5-a80b-01c6d2d623bf&autoAuth=true&ctid=b0beee0b-d997-40e0-800b-c586956e5b18&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Inhaltsverzeichnis
 * [Team  Übersicht]()
