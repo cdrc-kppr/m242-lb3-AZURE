@@ -75,7 +75,7 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 #### Beispiel Programm verwendet
 * MBED Studio installiert
 
-* Das IoT Kit angeschlossen und das Cloud Programm importiert. "                                                                                                "
+* Das IoT Kit angeschlossen und das Cloud Programm importiert.                                                                                                 
 ![](IMG/1.png)                                                                                                                                    
 ![](IMG/2.png)                                                                                                                                                                                                                                                                                                
 ![](IMG/3.png)                                                                                                                                                
@@ -83,20 +83,16 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 ![](IMG/5.png)                                                                                                                                                
 
 #### Beispiel Programm geringfügig abgeän-dert, z.B. nur URL 
-* Das .json file angepasst
-
+* Das .json file angepasst                                                                                                                                                
 ![](IMG/6.png)
 
-* WIFI und AZURE Link angepasst
-
-![](IMG/7.png)
-
-![](IMG/8.png)
+* WIFI und AZURE Link angepasst                                                                                                                                                
+![](IMG/7.png)                                                                                                                                                
+![](IMG/8.png)                                                                                                                                                
 
 #### Beispiel Programm erweitert, z.B. mehr Sensordaten senden oder andere Daten.
-* Das gerät Sendet die Temperatur daten an AZURE
-
-![](IMG/10.png)
+* Das gerät Sendet die Temperatur daten an AZURE                                                                                                                                                
+![](IMG/10.png)                                                                                                                                                
 
 ## K4
 ### Gateway / Edge
