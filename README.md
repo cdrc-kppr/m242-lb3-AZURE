@@ -95,7 +95,7 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 
 #### Beispiel Programm erweitert, z.B. mehr Sensordaten senden oder andere Daten.
 * Das gerät Sendet die Temperatur daten an AZURE                                                                                                                                                
-![](IMG/10.png)   
+![](IMG/10.PNG)   
 
 Um zu Testen ob die Daten ankommen bitte mit Azure CLI folgende Befehle ausführen:
 
@@ -104,37 +104,37 @@ az login
 az extension add --name azure-iot
 az iot hub monitor-events --hub-name <IoT Hub Name> --props all
 ```
-![](IMG/11.png)  
+![](IMG/11.PNG)  
 
 ## K4
 ### Gateway / Edge
 #### Auswertung der Daten in PowerBI
-![](IMG/12.png) 
+![](IMG/12.PNG) 
 
 * Consumer Gruppe zu IoT hub hinzufügen
-![](IMG/13.png) 
+![](IMG/13.PNG) 
 
 * Stream Analytics Job erstellen
-![](IMG/14.png)  
+![](IMG/14.PNG)  
 
 * Input und Output zum Stream Analytics Job hinzufügen
 -> verlinkung mit IoT Hub
-![](IMG/15.png)  
-![](IMG/16.png) 
+![](IMG/15.PNG)  
+![](IMG/16.PNG) 
 
 * Query anpassen
-![](IMG/17.png)  
+![](IMG/17.PNG)  
 
 * -> Start des Jobs
 
 * In PowerBi Daten erfassen
 * -> Report erstellen (Gelb markiert beachten)
 
-![](IMG/18.png)  
+![](IMG/18.PNG)  
 
 
 ##### Ergebniss
-![](IMG/19.png)  
+![](IMG/19.PNG)  
 
 ## K5
 ### (Cloud) Dienst
