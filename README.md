@@ -59,6 +59,12 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 
 
 #### Anhand der Dokumentation können Dritte das Projekt nachbauen
+
+
+
+## K3
+### IoTKit
+#### Beispiel Programm verwendet
 ##### Azure 
 * IoT Hub erstellt:
 ![](IMG/Azure_Hub.PNG)
@@ -69,10 +75,7 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 * "Primary Connection String" kopiert und in [mbed_app.json](link) kopiert 
 ![](IMG/Azure_Key.PNG)
 
-
-## K3
-### IoTKit
-#### Beispiel Programm verwendet
+##### IoTKit
 * MBED Studio installiert
 
 * Das IoT Kit angeschlossen und das Cloud Programm importiert.                                                                                                 
@@ -92,24 +95,52 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 
 #### Beispiel Programm erweitert, z.B. mehr Sensordaten senden oder andere Daten.
 * Das gerät Sendet die Temperatur daten an AZURE                                                                                                                                                
-![](IMG/10.png)                                                                                                                                                
+![](IMG/10.png)   
+
+Um zu Testen ob die Daten ankommen bitte mit Azure CLI folgende Befehle ausführen:
+
+```
+az login
+az extension add --name azure-iot
+az iot hub monitor-events --hub-name <IoT Hub Name> --props all
+```
+![](IMG/11.png)  
 
 ## K4
 ### Gateway / Edge
-* Eigenen Gateway/Edge aufgesetzt (Rasp-berry Pi, VMs etc.)
-* Gateway Dienst installiert, z.B. MQTT Bro-ker mosquitto
-* Zusätzlichen Dienst, für Workflow Abhand-lung, z.B. Node-RED installiert
-* Weiteren Gateway / Protokoll Dienst instal-liert und funktionsfähig
+#### Auswertung der Daten in PowerBI
+![](IMG/12.png) 
+
+* Consumer Gruppe zu IoT hub hinzufügen
+![](IMG/13.png) 
+
+* Stream Analytics Job erstellen
+![](IMG/14.png)  
+
+* Input und Output zum Stream Analytics Job hinzufügen
+-> verlinkung mit IoT Hub
+![](IMG/15.png)  
+![](IMG/16.png) 
+
+* Query anpassen
+![](IMG/17.png)  
+
+* -> Start des Jobs
+
+* In PowerBi Daten erfassen
+* -> Report erstellen (Gelb markiert beachten)
+
+![](IMG/18.png)  
+
+
+##### Ergebniss
+![](IMG/19.png)  
 
 ## K5
 ### (Cloud) Dienst
 #### (Cloud) Dienst aus den Beispielen verwendet
-[Dokumentation](https://github.com/cdrc-kppr/M242-lb3-AZURE#k6)
 #### Neuen, welcher nicht in den Beispielen vorkommt, Dienst verwendet
-
-
 #### Eigenen (Cloud) Dienst implementiert
-* [siehe Dokumentation](https://github.com/cdrc-kppr/m242-lb3-AZURE#azure)
 #### Kommunikation erfolgt verschlüsselt, z.B. mittels HTTPSoder mittels VPN
 
 ## K6
