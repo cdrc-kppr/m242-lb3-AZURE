@@ -39,6 +39,8 @@ Von VPN bis zu AAD usw.
 ##### Cedric Kupper 
 IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es ausser für ein Paar LEDs in meinem Zimmer nie tichtig benutzt. Ich habe bereits mal ein Raspberry für meine Firma eingerichtet, hatte da aber sehr viel unterstützung und musste nicht viel selber machen. Mit Services arbeite ich zwar nicht täglich aber immer mal wieder im Büro (AZURE usw.)
 
+##### Haris Chandrakumar
+
 #### Wichtige Lernschritte sind dokumentiert
 ##### Luca Kiefer
 * 16.12.2020
@@ -56,6 +58,8 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 ** Programm mit Online Compiler Kompiliert
 ** MBED Studio kennengelernt
 ** Cloud Programm mit MBED Studio Komopiliert und installiert
+##### Haris Chandrakumar
+
 
 
 #### Anhand der Dokumentation können Dritte das Projekt nachbauen
@@ -149,6 +153,13 @@ az iot hub monitor-events --hub-name <IoT Hub Name> --props all
 #### Umsetzung eigener Ideen
 #### Persönlicher Lernentwicklung (Vergleich Vorwissen –Wissenszuwachs)
 ###### Luca Kiefer
+* MBED STudio kennengelernt
+* IoT Kit inbetriebnahme kennengelertn
+* GitHub Skills erweitert
+* Azure IoT Hub kennegerlernt und konfiguriert 
+* Azure Stream Analytics kennegelernt und umgesetzt
+* Einbindung in PowerBi
+* PowerBI gestaltung
 
 ###### Cedric Kupper
 * MBED STudio kennengelernt
@@ -156,8 +167,17 @@ az iot hub monitor-events --hub-name <IoT Hub Name> --props all
 * GitHub Skills erweitert
 * AZURE noch einwenig vertieft kennengelernt
 
+##### Haris Chandrakumar
+
+
 #### Reflexion
 ###### Luca Kiefer
+
+Das Modul hat mir sehr spass gemacht. Ich konnte viel über IoT kennenlernen und konfigurieren. Die Anbindung ins Azure hat nach einigen schwierigkeiten funktioniert. Besonder Spass hat mir die Einbindung der Daten ins PowerBI.
+Das Endergebniss fand ich sehr cool und hat mich mit Stolz erfühlt.
+Meine GitHub Skills konnte ich auch erweitern.
+
+Das arbeiten im Teams hat sehr gut funktioniert. Wir haben die Aufgaben fair verteilt.
 
 ###### Cedric Kupper
 Ich konnte sehr vieles über das IoT Kit K64F lernen. Es hat siel spass gemacht die Erfolge zusehen und es war ein super Gefühl, als zum Schluss alles funktioniert hat. Jetzt kann ich schon sehr gut damit umgehen. Ich konnte durch ausprobieren, ein wenig recherche und etwas Hilfe von meinen Teamkameraden sehr viel über MBED Studio und seine Funktionen dazulernen. Auch mit Git-Hub, bzw. Versionsverwaltungstools hab ich noch einen besseren überblick erhalten.  Mitlerweile habe ich ein gutes Wissen und kann relativ gut damit umgehen.
@@ -165,3 +185,6 @@ Ich konnte sehr vieles über das IoT Kit K64F lernen. Es hat siel spass gemacht 
 Die zusammenarbeit im Team hat sehr gut funktioniert. Die aufgaben wurden gerecht aufgeteilt und dementsprechen umgesetzt.
 
 Das Projekt hat mich sehr gut weitergebracht. Ich denke ich werde sehr vieles davon (IoT) in der Zukunft brauchen können. Auch Git-Hub, für gute, einfache und übersichtliche Dokumentationen.
+
+
+##### Haris Chandrakumar
