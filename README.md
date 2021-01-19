@@ -72,9 +72,25 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 
 ## K3
 ### IoTKit
-* Beispiel Programm verwendet
-* Beispiel Programm geringfügig abgeän-dert, z.B. nur URL 
-* Beispiel Programm erweitert, z.B. mehr Sensordaten senden oder andere Daten.
+#### Beispiel Programm verwendet
+* MBED Studio installiert
+
+* Das IoT Kit angeschlossen und das Cloud Programm importiert.
+![](IMG/1.PNG)
+![](IMG/2.PNG)
+![](IMG/3.PNG)
+![](IMG/4.PNG)
+![](IMG/5.PNG)
+#### Beispiel Programm geringfügig abgeän-dert, z.B. nur URL 
+* Das .json file angepasst
+![](IMG/6.PNG)
+
+* WIFI und AZURE Link angepasst
+![](IMG/7.PNG)
+![](IMG/8.PNG)
+#### Beispiel Programm erweitert, z.B. mehr Sensordaten senden oder andere Daten.
+* Das gerät Sendet die Temperatur daten an AZURE
+![](IMG/10.PNG)
 
 ## K4
 ### Gateway / Edge
@@ -85,20 +101,34 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 
 ## K5
 ### (Cloud) Dienst
-* (Cloud) Dienst aus den Beispielen verwendet
+#### (Cloud) Dienst aus den Beispielen verwendet
 [Dokumentation](https://github.com/cdrc-kppr/M242-lb3-AZURE#k6)
-* Neuen, welcher nicht in den Beispielen vorkommt, Dienst verwendet
+###@ Neuen, welcher nicht in den Beispielen vorkommt, Dienst verwendet
 
-* Eigenen (Cloud) Dienst implementiert
-** [siehe Dokumentation](https://github.com/cdrc-kppr/m242-lb3-AZURE#azure)
-* Kommunikation erfolgt verschlüsselt, z.B. mittels HTTPSoder mittels VPN
+
+#### Eigenen (Cloud) Dienst implementiert
+* [siehe Dokumentation](https://github.com/cdrc-kppr/m242-lb3-AZURE#azure)
+#### Kommunikation erfolgt verschlüsselt, z.B. mittels HTTPSoder mittels VPN
 
 ## K6
 ### Zusätzliche Bewertungspunkte
-* Allgemein (Kreativität, Komplexität, Um-fang)
-* Umsetzung eigener Ideen
-* Persönlicher Lernentwicklung (Vergleich Vorwissen –Wissenszuwachs)
-##### Luca Kiefer
+#### Allgemein (Kreativität, Komplexität, Um-fang)
+#### Umsetzung eigener Ideen
+#### Persönlicher Lernentwicklung (Vergleich Vorwissen –Wissenszuwachs)
+###### Luca Kiefer
 
-* Reflexion
-##### Luca Kiefer
+###### Cedric Kupper
+* MBED STudio kennengelernt
+* IoT Kit inbetriebnahme kennengelertn
+* GitHub Skills erweitert
+* AZURE noch einwenig vertieft kennengelernt
+
+#### Reflexion
+###### Luca Kiefer
+
+###### Cedric Kupper
+Ich konnte sehr vieles über das IoT Kit K64F lernen. Es hat siel spass gemacht die erfolge zusehen und es war ein super Gefühl, als zum Schluss alles Funktioniert hat. Jetzt kann ich schon sehr gut damit umgehen. Ich konnte durch ausprobieren, ein wenig recherche und etwas Hilfe von meinen Teamkameraden sehr viel über MBED Studio und seine Funktionen dazulernen. Auch mit Git-Hub, bzw. Versionsverwaltungstools hab ich noch einen besseren überblick erhalten.  Mitlerweile habe ich ein gutes Wissen und kann relativ gut damit umgehen.
+
+Die zusammenarbeit im Team hat sehr gut funktioniert. Die aufgaben wurden gerecht aufgeteilt und dementsprechen umgesetzt.
+
+Das Projekt hat mich sehr gut weitergebracht. Ich denke ich werde sehr vieles davon (IoT) in der Zukunft brauchen können. Auch Git-Hub, für gute, einfache und übersichtliche Dokumentationen.
