@@ -75,12 +75,12 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 #### Beispiel Programm verwendet
 * MBED Studio installiert
 
-* Das IoT Kit angeschlossen und das Cloud Programm importiert.
-![](IMG/1.png)
-![](IMG/2.png)
-![](IMG/3.png)
-![](IMG/4.png)
-![](IMG/5.png)
+* Das IoT Kit angeschlossen und das Cloud Programm importiert. "                                                                                                "
+![](IMG/1.png)                                                                                                                                    
+![](IMG/2.png)                                                                                                                                                                                                                                                                                                
+![](IMG/3.png)                                                                                                                                                
+![](IMG/4.png)                                                                                                                                                
+![](IMG/5.png)                                                                                                                                                
 
 #### Beispiel Programm geringfügig abgeän-dert, z.B. nur URL 
 * Das .json file angepasst
