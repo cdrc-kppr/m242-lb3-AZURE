@@ -76,21 +76,25 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 * MBED Studio installiert
 
 * Das IoT Kit angeschlossen und das Cloud Programm importiert.
-![](IMG/1.PNG)
-![](IMG/2.PNG)
-![](IMG/3.PNG)
-![](IMG/4.PNG)
-![](IMG/5.PNG)
+![](IMG/1.png)
+
+![](IMG/2.png)
+
+![](IMG/3.png)
+
+![](IMG/4.png)
+
+![](IMG/5.png)
 #### Beispiel Programm geringfügig abgeän-dert, z.B. nur URL 
 * Das .json file angepasst
-![](IMG/6.PNG)
+![](IMG/6.png)
 
 * WIFI und AZURE Link angepasst
-![](IMG/7.PNG)
-![](IMG/8.PNG)
+![](IMG/7.png)
+![](IMG/8.png)
 #### Beispiel Programm erweitert, z.B. mehr Sensordaten senden oder andere Daten.
 * Das gerät Sendet die Temperatur daten an AZURE
-![](IMG/10.PNG)
+![](IMG/10.png)
 
 ## K4
 ### Gateway / Edge
@@ -103,7 +107,7 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 ### (Cloud) Dienst
 #### (Cloud) Dienst aus den Beispielen verwendet
 [Dokumentation](https://github.com/cdrc-kppr/M242-lb3-AZURE#k6)
-###@ Neuen, welcher nicht in den Beispielen vorkommt, Dienst verwendet
+#### Neuen, welcher nicht in den Beispielen vorkommt, Dienst verwendet
 
 
 #### Eigenen (Cloud) Dienst implementiert
