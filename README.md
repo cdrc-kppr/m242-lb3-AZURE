@@ -163,6 +163,7 @@ az iot hub monitor-events --hub-name <IoT Hub Name> --props all
 #### Neuen, welcher nicht in den Beispielen vorkommt, Dienst verwendet
 #### Eigenen (Cloud) Dienst implementiert
 #### Kommunikation erfolgt verschlüsselt, z.B. mittels HTTPSoder mittels VPN
+Kommunikation erfolgt verschlüsselt mit MQTT
 
 ## K6
 ### Zusätzliche Bewertungspunkte
