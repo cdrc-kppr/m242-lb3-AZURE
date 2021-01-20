@@ -86,32 +86,32 @@ IoT Gerät habe ich noch nie selber konfiguriert. Im ZLI hatte ich mit Raspberry
 
 ##### IoTKit
 * MBED Studio installiert
-** DOWNLOAD LINK: https://os.mbed.com/studio/
+* DOWNLOAD LINK: https://os.mbed.com/studio/
 * Das IoT Kit angeschlossen und das Cloud Programm importiert. 
-** Auf "File" klicken und "Import Programm" wählen                                                                                                                                    
+* Auf "File" klicken und "Import Programm" wählen                                                                                                                                    
 ![](IMG/1.png)                                                                                                                                    
 
-** Die Git-Hub URL des "Cloud" Dienstes einfügen und einen Namen vergeben, dann importieren                                                                                                                                    
+* Die Git-Hub URL des "Cloud" Dienstes einfügen und einen Namen vergeben, dann importieren                                                                                                                                    
 ![](IMG/2.png)                                                                                                                                    
 
-** Um das IoT Kit anzuhängen, unter "Target", rechts unten auf das blaue Icon klicken                                                                                                                                                
+* Um das IoT Kit anzuhängen, unter "Target", rechts unten auf das blaue Icon klicken                                                                                                                                                
 ![](IMG/3.png)                                                                                                                                                
 
-** Dann bei "USB-Device" das Kit auswählen das Build Target überprüfen, wenn alles stimmt, auf "Save All" klicken                                                                                                                                                
+* Dann bei "USB-Device" das Kit auswählen das Build Target überprüfen, wenn alles stimmt, auf "Save All" klicken                                                                                                                                                
 ![](IMG/4.png)                                                                                                                                                
 
-** Nun ist das IoT Kit unter "Targets" mitt dem vorhin vergebenen Namen gespeichert. Wählt es aus
+* Nun ist das IoT Kit unter "Targets" mitt dem vorhin vergebenen Namen gespeichert. Wählt es aus
 ![](IMG/5.png)                                                                                                                                                
 
 #### Beispiel Programm geringfügig abgeändert, z.B. nur URL 
-** Das .json file anpassn, doppel klick und warten bis es sich öffnet                                                                                                                                                
+* Das .json file anpassn, doppel klick und warten bis es sich öffnet                                                                                                                                                
 ![](IMG/6.png)                                                                                                                                                
 
-** Nun die eigenschaften und den AZURE Link einfügen                                                                                                                                                
+* Nun die eigenschaften und den AZURE Link einfügen                                                                                                                                                
 ![](IMG/7.png)                                                                                                                                                
 ![](IMG/8.png)                                                                                                                                                
 
-** Zum schluss auf das "Play" Icon klicken und warten biss das Programm fertig Installiert wurde                                                                                                                                                
+* Zum schluss auf das "Play" Icon klicken und warten biss das Programm fertig Installiert wurde                                                                                                                                                
 ![](IMG/9.png)                                                                                                                                                
 
 #### Beispiel Programm erweitert, z.B. mehr Sensordaten senden oder andere Daten.
