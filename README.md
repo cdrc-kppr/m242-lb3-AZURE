@@ -168,6 +168,10 @@ az iot hub monitor-events --hub-name <IoT Hub Name> --props all
 * AZURE noch einwenig vertieft kennengelernt
 
 ##### Haris Chandrakumar
+* MBED STudio kennengelernt
+* IoT Kit inbetriebnahme kennengelernt
+* GitHub Skills erweitert
+* AZURE noch einwenig vertieft kennengelernt
 
 
 #### Reflexion
@@ -188,3 +192,7 @@ Das Projekt hat mich sehr gut weitergebracht. Ich denke ich werde sehr vieles da
 
 
 ##### Haris Chandrakumar
+Ich hatte im Betrieb bisher nichts zu tun mit IoT Kit K64F. Meine einzige Erfahrung war jetzt im BIST aber dafür konnte ich etwas neues lernen was ich auch interessant fand. Ich konnte durch Ausprobieren und durch Hilfe von meinen Teammitgliedern und Recherche im Internet sehr schnell lernen, wie es funktioniert. Ab und zu mussten wir uns gegenseitig helfen aber zum Glück verstand auch jeder was er machte.
+
+Da wir nicht zum ersten Mal als Team zusammenarbeiten konnten wir die Arbeiten schnell zuteilen und eine Deadline setzten, woran sich auch jeder im Team halten konnte. Das gesamte Projekt haben wir auf GitHub sauber dokumentiert.
+
