@@ -100,7 +100,7 @@ IoT Gerät habe ich noch nie selber konfiguriert. Im ZLI hatte ich mit Raspberry
 * Dann bei "USB-Device" das Kit auswählen das Build Target überprüfen, wenn alles stimmt, auf "Save All" klicken                                                                                                                                                
 ![](IMG/4.png)                                                                                                                                                
 
-* Nun ist das IoT Kit unter "Targets" mitt dem vorhin vergebenen Namen gespeichert. Wählt es aus
+* Nun ist das IoT Kit unter "Targets" mitt dem vorhin vergebenen Namen gespeichert. Wählt es aus                                                                                                                                                
 ![](IMG/5.png)                                                                                                                                                
 
 #### Beispiel Programm geringfügig abgeändert, z.B. nur URL 
