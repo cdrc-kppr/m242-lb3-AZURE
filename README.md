@@ -40,6 +40,7 @@ Von VPN bis zu AAD usw.
 IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es ausser für ein Paar LEDs in meinem Zimmer nie tichtig benutzt. Ich habe bereits mal ein Raspberry für meine Firma eingerichtet, hatte da aber sehr viel unterstützung und musste nicht viel selber machen. Mit Services arbeite ich zwar nicht täglich aber immer mal wieder im Büro (AZURE usw.)
 
 ##### Haris Chandrakumar
+IoT Gerät habe ich noch nie selber konfiguriert. Im ZLI hatte ich mit Raspberry zutun dort hat uns der Lehrer gezeigt was man alles konfigurieren kann und was er schon mit diesem Gerät gemacht hat. Selber Konfigurieren konnten wir aber nicht nur theoretisch anschauen konnten wir da er nicht genug Geräte hatte.
 
 #### Wichtige Lernschritte sind dokumentiert
 ##### Luca Kiefer
@@ -59,8 +60,12 @@ IoT war bei mir bis jetzt noch nicht so richtig im Vordergrund. Ich habe es auss
 ** MBED Studio kennengelernt
 ** Cloud Programm mit MBED Studio Komopiliert und installiert
 ##### Haris Chandrakumar
-
-
+* 16.12.2021
+** IoT Gerät (K64F) kennegelernt
+** Die ersten Programme Kompiliert
+* 06.01.2021
+** Cloud Service mit AZURE kennengelernt
+** MBED Studio kennengelernt
 
 #### Anhand der Dokumentation können Dritte das Projekt nachbauen
 
