@@ -86,25 +86,37 @@ IoT Gerät habe ich noch nie selber konfiguriert. Im ZLI hatte ich mit Raspberry
 
 ##### IoTKit
 * MBED Studio installiert
-
-* Das IoT Kit angeschlossen und das Cloud Programm importiert.                                                                                                 
+** DOWNLOAD LINK: https://os.mbed.com/studio/
+* Das IoT Kit angeschlossen und das Cloud Programm importiert. 
+** Auf "File" klicken und "Import Programm" wählen                                                                                                                                    
 ![](IMG/1.png)                                                                                                                                    
-![](IMG/2.png)                                                                                                                                                                                                                                                                                                
+
+** Die Git-Hub URL des "Cloud" Dienstes einfügen und einen Namen vergeben, dann importieren                                                                                                                                    
+![](IMG/2.png)                                                                                                                                    
+
+** Um das IoT Kit anzuhängen, unter "Target", rechts unten auf das blaue Icon klicken                                                                                                                                                
 ![](IMG/3.png)                                                                                                                                                
+
+** Dann bei "USB-Device" das Kit auswählen das Build Target überprüfen, wenn alles stimmt, auf "Save All" klicken                                                                                                                                                
 ![](IMG/4.png)                                                                                                                                                
+
+** Nun ist das IoT Kit unter "Targets" mitt dem vorhin vergebenen Namen gespeichert. Wählt es aus
 ![](IMG/5.png)                                                                                                                                                
 
-#### Beispiel Programm geringfügig abgeän-dert, z.B. nur URL 
-* Das .json file angepasst                                                                                                                                                
-![](IMG/6.png)
+#### Beispiel Programm geringfügig abgeändert, z.B. nur URL 
+** Das .json file anpassn, doppel klick und warten bis es sich öffnet                                                                                                                                                
+![](IMG/6.png)                                                                                                                                                
 
-* WIFI und AZURE Link angepasst                                                                                                                                                
+** Nun die eigenschaften und den AZURE Link einfügen                                                                                                                                                
 ![](IMG/7.png)                                                                                                                                                
 ![](IMG/8.png)                                                                                                                                                
 
+** Zum schluss auf das "Play" Icon klicken und warten biss das Programm fertig Installiert wurde                                                                                                                                                
+![](IMG/9.png)                                                                                                                                                
+
 #### Beispiel Programm erweitert, z.B. mehr Sensordaten senden oder andere Daten.
 * Das gerät Sendet die Temperatur daten an AZURE                                                                                                                                                
-![](IMG/10.PNG)   
+![](IMG/10.png)   
 
 Um zu Testen ob die Daten ankommen bitte mit Azure CLI folgende Befehle ausführen:
 
